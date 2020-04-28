@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1588040864 source:j:\doubly_linked_list_implementation\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1588040864 source:j:\c\doubly_linked_list_implementation\main.c
+	<stdio.h>
+	<stdlib.h>
+
